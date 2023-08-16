@@ -1,2 +1,1 @@
-/tests export-ignore
-.gitattributes export-ignore
+/tests/**/* binary
